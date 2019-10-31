@@ -68,11 +68,3 @@ sound/vox/ship.wav
 sound/vox/static.wav
 sound/vox/wait.wav
 sound/vox/zoological.wav
-models/player/po_fuller/po_fuller.mdl
-models/player/po_fuller/po_fuller.bmp
-models/player/po_legers/po_legers.mdl
-models/player/po_legers/po_legers.bmp
-models/player/po_heinbach/po_heinbach.mdl
-models/player/po_heinbach/po_heinbach.bmp
-models/player/po_damien/po_damien.mdl
-models/player/po_damien/po_damien.bmp
