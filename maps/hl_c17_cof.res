@@ -250,8 +250,8 @@ models/AoMClassic/monsters/twitcher/twitcher01.mdl
 models/AoMClassic/monsters/twitcher/twitcher02.mdl
 models/AoMClassic/monsters/twitcher/twitcher03.mdl
 models/AoMClassic/monsters/twitcher/twitcherT.mdl
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl
+
 
 //=========//
 // SPRITES //

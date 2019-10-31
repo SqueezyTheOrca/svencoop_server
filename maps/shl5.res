@@ -23,5 +23,4 @@ sound/vox/activated.wav
 Sprites/blueflare1.spr
 sprites/fire.spr
 xeno.wad
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

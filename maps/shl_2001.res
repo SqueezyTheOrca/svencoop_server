@@ -36,5 +36,4 @@ sprites/lgtning.spr
 sprites/portal1.spr
 sprites/xflare3.spr
 xeno.wad
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

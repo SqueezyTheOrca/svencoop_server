@@ -34,5 +34,4 @@ maps/of6a3.bsp
 maps/of6a4.bsp
 maps/of6a4b.bsp
 maps/of6a5.bsp
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

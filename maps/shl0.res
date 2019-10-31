@@ -13,5 +13,4 @@ sound/buttons/button1.wav
 sprites/fire.spr
 sprites/xsmoke1.spr
 xeno.wad
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

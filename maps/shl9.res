@@ -89,5 +89,4 @@ sound/shl/race/pain4.wav
 sound/shl/race/pain5.wav
 sound/shl/weapons/plasma1.wav
 sound/shl/weapons/plasma2.wav
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

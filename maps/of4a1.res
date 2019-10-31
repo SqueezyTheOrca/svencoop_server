@@ -8,6 +8,6 @@ sound/hl/weapons/357_shot1.wav
 sound/hl/weapons/357_shot2.wav
 models/cubemath/chars/d6.mdl
 models/cubemath/chars/percent.mdl
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl
+
 

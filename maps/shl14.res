@@ -47,5 +47,4 @@ sprites/tele1.spr
 sprites/xbeam3.spr
 sprites/xflare1.spr
 xeno.wad
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

@@ -47,5 +47,4 @@ sound/shl/spf_reload1.wav
 sound/shl/hevbarney/sbarrel1.wav
 sound/shl/dbarrel1.wav
 sound/shl/hevbarney/scock1.wav
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

@@ -4,6 +4,6 @@ models/cubemath/chars/percent.mdl
 sprites/hl_weapons/weapon_hl357.txt
 models/cubemath/key.mdl
 models/cubemath/padlock.mdl
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl
+
 

@@ -18,5 +18,4 @@ sound/residuallife/sentences/gman/gman_intro_talk0.wav
 sound/residuallife/sentences/gman/intro_gman_tulk1a.wav
 sound/residuallife/sentences/gman/intro_gman_tulk1b.wav
 sound/residuallife/war_snd/air_raid.wav
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

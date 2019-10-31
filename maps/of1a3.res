@@ -3,6 +3,6 @@ models/cubemath/chars/d0.mdl
 models/cubemath/chars/d1.mdl
 models/cubemath/chars/d6.mdl
 models/cubemath/chars/percent.mdl
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl
+
 

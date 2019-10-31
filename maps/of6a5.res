@@ -13,5 +13,5 @@ gfx/env/hackrt.bmp
 gfx/env/hackrt.tga
 gfx/env/hackup.bmp
 gfx/env/hackup.tga
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl
+

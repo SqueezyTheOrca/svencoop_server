@@ -33,5 +33,4 @@ xeno.wad
 models/shl/probeboss.mdl
 sound/shl/ufo_boss.txt
 sound/shl/probeboss/active.wav
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

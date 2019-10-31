@@ -16,5 +16,4 @@ sound/plats/ttrain_start1.wav
 sound/shl/jazz.wav
 sound/tride/c0a0_tr_noeat.wav
 xeno.wad
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl

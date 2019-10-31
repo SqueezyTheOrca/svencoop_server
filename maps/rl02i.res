@@ -45,5 +45,4 @@ sound/residuallife/weapons/chubby/toad_deploy1.wav
 sound/residuallife/weapons/chubby/toad_die1.wav
 sound/residuallife/weapons/chubby/toad_hunt1.wav
 sound/residuallife/weapons/chubby/toad_hunt2.wav
-models/player/YoRHa_2B/YoRHa_2B.mdl
-models/player/YoRHa_2B/YoRHa_2B.bmp
+models/player/Rem/Rem.mdl
