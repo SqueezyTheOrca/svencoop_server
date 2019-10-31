@@ -9,6 +9,3 @@ sound/instinct/gman_noreg.wav
 sound/instinct/gman_otherwise.wav
 sound/instinct/vorts.ogg
 sound/instinct/vorts2.ogg
-models/player/kleiner_hd/kleiner_hd.mdl
-models/player/kleiner_hd/kleiner_hd.bmp
-

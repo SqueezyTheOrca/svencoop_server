@@ -2,6 +2,3 @@
 // https://github.com/wootguy/resguy
 
 hlinstinct.wad
-models/player/kleiner_hd/kleiner_hd.mdl
-models/player/kleiner_hd/kleiner_hd.bmp
-

@@ -6,6 +6,3 @@ models/instinct/big_grandma.mdl
 models/instinct/maphoarder.mdl
 models/instinct/praetorian.mdl
 sound/instinct/grandma.ogg
-models/player/kleiner_hd/kleiner_hd.mdl
-models/player/kleiner_hd/kleiner_hd.bmp
-
